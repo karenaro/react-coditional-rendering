@@ -1,0 +1,9 @@
+.Univers{
+    width: 900px;
+    height: 550px;
+    border: 5px solid green;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
